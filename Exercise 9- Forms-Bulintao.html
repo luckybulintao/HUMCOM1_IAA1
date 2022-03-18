@@ -1,0 +1,50 @@
+<html>
+<meta charset="utf-8" />
+<meta name="author" content="Lucky Bulintao" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Registration Form- Bulintao</title>
+<body >
+    <form style="background-color: gray; color: white; width: 5.5in; font-family: Tahoma;">
+        <header style="margin-left: 1.8in;"><h2>Sign up now!</h2></header>
+        Field marked (*) are required
+        <fieldset>
+        <legend>Your Details</legend>
+        
+        <label for="firstname">Name*</label><input type="text" name="firstname" placeholder="e.g Lucky Bulintao" min="4" max="20" /><br>
+        <label for="lastname">Last name*</label> <input type="text" name="lastname" placeholder="e.g 2021@s.ubaguio.edu" min="4" max="20" /><br>
+        <label for="phone#">Phone*</label> <input type="text" name="phone#" placeholder="e.g 09XXXXXXXXX" max="15" min="2" /><br />
+        </fieldset>
+        <fieldset>
+        <legend>Delivery Address</legend>
+        <label for="address1">Address1*</label> <input type="text" name="address1" placeholder="House#/Street"><br>
+        District/Barangay* <input type="text" name="address1" placeholder="District/Municipality" ><br>
+        City*<select>
+					  <option value="city1">Baguio</option>
+					  <option value="city2">Manila</option>
+					  <option value="city3">Pasig</option>
+					  <option value="city4">Antipolo</option>
+			</select><br/>
+        <label for="Pcode">Postal Code*</label> <input type="text" name="Pcode" min="4" max="10" placeholder="e.g 2600"><br>
+        Province*</label>
+         <select>
+            <option opt1="prov1">Benguet</option>
+            <option opt2="prov2">Metro Manila</option>
+            <option opt3="prov3">Rizal</option>
+          </select> <br/>
+        </fieldset>
+        <fieldset>
+        <legend>Membership Information</legend>
+        <label for="usname">Username*</label> <input type="text" name="usname" min="5" max="20" placeholder="Minimum of 8 characters"><br>
+        <label for="pword">Password*</label> <input type="password" name="pword" min="8"max="16" placeholder="Enter atleast 8 characters"><br>
+			<input type="checkbox" name="choice1" value="f"> PC Magazine<br>
+			<input type="checkbox" name="choice2" value="b"> Wired<br>
+			<input type="checkbox" name="choice3" value="p"> Computerworld<br>
+            <input type="checkbox" name="choice4" value="p"> I don't subscribe<br>
+			<input type="checkbox" name="choice5" value="other"> Other
+        </fieldset>
+        <fieldset>
+        <input type="submit" onclick="alert('Sign up successful!')" value=" Sign Up! ">
+        </fieldset>
+    </form>
+</body>
+</html>
