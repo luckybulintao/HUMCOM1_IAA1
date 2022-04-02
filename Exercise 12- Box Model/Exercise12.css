@@ -1,0 +1,146 @@
+body{
+    border-style: solid;
+    width: 10in;
+    margin-left: 2.4in;
+    height: 10.2in;
+    background-color: gray;
+}
+header{
+    border-style: solid;
+    margin: 5px;
+    background-color: rgb(156, 156, 156);
+}
+nav{
+    border-style: solid;
+    margin: 5px;
+    text-align: center;
+    background-color: rgb(197, 196, 196);
+}
+.div2{
+    border-style: solid;
+    margin: 5px;
+    width: 2.5in;
+    float: left;
+}
+.header2{
+    border-style: solid;
+    text-align: center;
+    height: 40px;
+    background-color: rgb(197, 196, 196);
+}
+.section2{
+    height: 8in;
+    background-color: rgb(182, 181, 181);
+}
+.nav2{
+    border-style: solid;
+    margin: 5px;
+    height: 6.5in;
+}
+.footer1{
+    border-style: solid;
+    margin: 5px;
+    height: 40px;
+    
+}
+.div3{
+    border-style: solid;
+    margin: 5px;
+    width: 680px;
+    float: right;
+    height: 8in;
+    background-color: rgb(197, 196, 196);
+}
+.art1{
+    border-style: solid;
+    margin: 5px;
+    height: 3.1in;
+}
+.art2{
+    border-style: solid;
+    margin: 5px;
+    height: 3.1in;
+}
+.section3{
+    border-style: solid;
+    margin: 5px;
+    height: 7.3in;
+    background-color: rgb(197, 196, 196);
+}
+.header4{
+    margin: 5px;
+    border-style: solid;
+    height: 40px;
+    background-color: rgb(197, 196, 196);
+}
+.footer2{
+    border-style: solid;
+    margin: 5px;
+    height: 40px;
+    background-color: rgb(197, 196, 196);
+}
+.p{
+    border-style: solid;
+    margin-left: 6px;
+    margin-right: 5px;
+    height: 40px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+.header5{
+    margin: 6px;
+    border-style: solid;
+    height: 40px;
+    margin-bottom: 25px;
+    background-color: rgb(197, 196, 196);
+}
+.navi{
+    text-align: center;
+    padding-top: 3in;
+}
+.header6{
+    margin: 5px;
+    border-style: solid;
+    height: 30px;
+    background-color: rgb(197, 196, 196);
+}
+.p3{
+    border-style: solid;
+    margin: 15px;
+    float: left;
+    width: 4in;
+    text-align: center;
+    margin-top: 20px;
+    background-color: rgb(197, 196, 196);
+    padding-top: 61px;
+    padding-bottom:61px ;
+}
+.aside{
+    border-style: solid;
+    margin: 15px;
+    float: right;
+    text-align: center;
+    margin-top: 20px;
+    width: 2in;
+    background-color: rgb(197, 196, 196);
+    padding-top: 61px;
+    padding-bottom:61px ;
+}
+.footer3{
+    border-style: solid;
+    margin: 10px;
+    height: 25px;
+    background-color: rgb(197, 196, 196);
+}
+.lastfooter{
+    margin: 5px;
+    height: 40px;
+    border-style: solid;
+    text-align: center;
+    background-color: rgb(197, 196, 196);
+}
+
+.cor{
+    margin-bottom: 8.4in;
+}
+    
