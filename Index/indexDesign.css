@@ -1,0 +1,75 @@
+.head{
+    background-color: rgb(204, 177, 22);
+    height: .3in;
+    border: 3px;
+    border-style: groove;
+    border-color: black;
+    border-bottom: 0px;
+}
+.header{
+    height: .5in;
+    background-color: rgb(0, 0, 0);
+    border: 3px;
+    border-style: groove;
+    border-color: black;
+    font-family: Courier New;
+    position: static;
+}
+.mainbody{
+    background-color: rgb(53, 148, 50);
+}
+.divbody{
+   height: 6.5in; 
+   background-color: rgb(221, 250, 221);
+   border: 3px;
+    border-style: groove;
+    border-color: black;
+    border-top: 0px;
+    border-bottom: 0px;
+    position: relative;
+    text-align: center;
+    color: rgb(193, 236, 196);
+
+}
+.footer{
+    height: 1in;
+    background-color: rgb(122, 134, 120);
+    border: 2px;
+    border-color: rgb(3, 3, 3);
+    border-style: solid;
+    border-top: 0px;
+    position: relative;
+    text-align: center;
+    
+    
+}
+a{
+    font-family: Courier New;
+    text-decoration: none;
+    font-size: 17px;
+    margin-right: 55px;
+   
+}
+.BGimage{
+    height: 6.5in;
+    width: 14.6in;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    
+}
+.pattern{
+    height: 1in;
+    width: 14.7in;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: cursive;
+    font-size: 1in;
+    font-style: italic;
+  }
+ 
+
