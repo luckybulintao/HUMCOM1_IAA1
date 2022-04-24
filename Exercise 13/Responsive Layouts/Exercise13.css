@@ -1,0 +1,265 @@
+.headdd{
+    border-style: solid;
+    border-color: black;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.headdd2{
+    border-style: solid;
+    border-color: black;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.contenttt{
+    border-style: solid;
+    border-color: black;
+    padding: 5px;
+    margin-bottom: 5px; 
+}
+.sec1{
+    border-style: solid;
+    border-color: black;
+    padding: 5px;
+    margin-bottom: 5px; 
+}
+.sec2{
+    border-style: solid;
+    border-color: black;
+    padding: 5px;
+    margin-bottom: 5px;  
+}
+.sec3{
+    border-style: solid;
+    border-color: black;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.seca{
+    border-style: solid;
+    border-color: black;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.secb{
+    border-style: solid;
+    border-color: black;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.secc{
+    border-style: solid;
+    border-color: black;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.secd{
+    border-style: solid;
+    border-color: black;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+@media only screen and (min-width: 768px){
+    .headdd{
+        border-style: solid;
+        border-color: black;
+        padding: 2px;
+        margin-bottom: 10px;
+        background-color: red;
+        
+    }
+
+    .headdd2{
+        border-style: solid;
+        border-color: black;
+        padding: 2px;
+        margin-bottom: 10px;
+        background-color: blue;
+    }
+
+    .contenttt{
+        border-style: solid;
+        border-color: black;
+        padding: 5px;
+        margin-bottom: 10px;
+        background-color: blueviolet;
+    }
+
+    .sec1{
+        border-style: solid;
+        border-color: black;
+        padding: 5px;
+        margin-bottom: 5px;
+        background-color: orangered ;
+    }
+    .sec2{
+        border-style: solid;
+        border-color: black;
+        padding: 5px;
+        margin-bottom: 5px;
+        background-color: crimson;
+    }
+    .sec3{
+        border-style: solid;
+        border-color: black;
+        padding: 5px;
+        margin-bottom: 5px;
+        background-color: firebrick;
+    }
+
+    .seca{
+        border-style: solid;
+        border-color: black;
+        padding: 5px;
+        margin-bottom: 5px;
+        background-color: skyblue;
+        width: 45%;
+        float: left;
+        margin-left: 5px;
+    }
+    .secb{
+        border-style: solid;
+        border-color: black;
+        padding: 5px;
+        margin-bottom: 5px;
+        background-color: rgb(160, 183, 192);
+        width: 45%;
+        float: right;
+        margin-right: 5px;
+    }
+    .secc{
+        border-style: solid;
+        border-color: black;
+        padding: 5px;
+        margin-bottom: 5px;
+        background-color: rgb(71, 99, 109);
+        width: 45%;
+        float: left;
+        margin-left: 5px;
+    }
+    .secd{
+        border-style: solid;
+        border-color: black;
+        padding: 5px;
+        margin-bottom: 5px;
+        background-color: rgb(23, 72, 90);
+        width: 45%;
+        float: right;
+        margin-right: 5px;
+    }
+}
+
+@media only screen and (min-width: 1024px){
+    .headdd{
+        border-style: solid;
+        border-color: black;
+        padding: 2px;
+        margin-bottom: 10px;
+        background-color: rgb(224, 224, 224);
+        width: 48%;
+        float: right;
+        height: 140px;
+        
+    }
+
+    .headdd2{
+        border-style: solid;
+        border-color: black;
+        padding: 2px;
+        margin-bottom: 10px;
+        background-color: rgb(175, 175, 177);
+        width: 48%;
+        height: 140px;
+        
+    }
+
+    .contenttt{
+        border-style: solid;
+        border-color: black;
+        padding: 5px;
+        margin-bottom: 10px;
+        background-color: rgb(73, 73, 73);
+    }
+
+    .sec1{
+        border-style: solid;
+        border-color: black;
+        padding: 5px;
+        margin-bottom: 5px;
+        background-color: rgb(49, 41, 38) ;
+        width: 30%;
+        float: right;
+        height: 130px;
+    }
+    .sec2{
+        border-style: solid;
+        border-color: black;
+        padding: 5px;
+        margin-bottom: 5px;
+        background-color: rgb(65, 40, 45);
+        width: 30%;
+        float: left;
+        height: 130px;
+        
+    }
+    .sec3{
+        border-style: solid;
+        border-color: black;
+        padding: 5px;
+        margin-bottom: 5px;
+        background-color: rgb(49, 31, 31);
+        width: 30%;
+        margin: 0 auto;
+        height: 130px;
+    }
+
+    .seca{
+        border-style: solid;
+        border-color: black;
+        padding: 5px;
+        background-color: rgb(13, 158, 216);
+        width: 25%;
+        box-sizing: border-box;
+        margin-right: 10px;
+        height: 130px;
+
+        
+    }
+    .secb{
+        border-style: solid;
+        border-color: black;
+        padding: 5px;
+        background-color: rgb(80, 165, 199);
+        width: 24%;
+        box-sizing: border-box;
+        float: left;
+        margin-right: 5px;
+        height: 130px;
+        
+    }
+    .secc{
+        border-style: solid;
+        border-color: black;
+        padding: 5px;
+        background-color: rgb(16, 48, 59);
+        width: 24%;
+        box-sizing: border-box;
+        float: left;
+        margin-right: 10px;
+        height: 130px;
+
+        
+    }
+    .secd{
+        border-style: solid;
+        border-color: black;
+        padding: 5px;
+        background-color: rgb(35, 57, 65);
+        width: 24%;
+        box-sizing: border-box;
+        float: left;
+        margin-left: px;
+        height: 130px;
+        
+    }
+}
