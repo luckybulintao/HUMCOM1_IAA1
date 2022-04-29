@@ -1,0 +1,6 @@
+console.log("Bulintao, Lucky Babayongan")
+console.log("BSCS")
+console.log("1st Year")
+console.log("HUMCOM1")
+console.log("IAA1")
+console.log("Human Computer Interaction")
