@@ -1,0 +1,50 @@
+.seal{
+    height: 100px;
+    width: 100px;
+    float: right;
+    margin-right: 1in;
+}
+header{
+    text-decoration: none;
+    font-family: Papyrus;
+    background: rgba(38, 38, 39, 0.83);
+    height: 2in;
+    margin: 0px;
+    height: 1.1in;
+    top: 0;
+    bottom:0;
+    position:fixed;
+    overflow-x:hidden;
+    width: 100%;
+    font-size: 50px;
+    margin-bottom: 1in;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-family: Papyrus;
+}
+body{
+    background-color: burlywood;
+}
+form{
+    background-color: white;
+    border-style: solid;
+    width: 30%;
+    
+    font-size: 20px;
+}
+.sd{
+    font-family: Tahoma;
+    font-size: 30px;
+    background-color: rgb(180, 172, 172);
+}
+fieldset{
+    border-style: groove;
+    margin: 10px;
+}
+.form{
+    display: flex;
+    justify-content: center;
+}

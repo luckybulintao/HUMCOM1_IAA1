@@ -1,0 +1,39 @@
+body{
+    background-image: url(../Images/FrontpageBackground.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    background-size: 100% 13.3in;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: Papyrus;
+}
+header{
+    background: rgba(52, 52, 53, 0.83);
+    color: white;
+    font-family: Papyrus;
+    height: 1in;
+    
+}
+.seal{
+    height: 100px;
+    width: 100px;
+    float: right;
+    margin-right: 1in;
+}
+iframe{
+    width: 75%;
+    height: 7in;
+    
+}
+.l{
+    color: rgb(10, 10, 10);
+    font-family: Papyrus;
+}
+footer{
+    color: rgb(0, 0, 0);
+    font-family: Courier New;
+}
+

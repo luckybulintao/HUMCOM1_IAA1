@@ -1,0 +1,58 @@
+body{
+    background-image: url(../Images/capitol.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    background-size: 100% 13.3in;
+}
+header{
+    background: rgba(43, 43, 44, 0.83);
+    color: rgba(114, 106, 106);
+    font-family: Papyrus;
+    height: 2in;
+    text-decoration: none;
+    height: 1.1in;
+    top: 0;
+    bottom:0;
+    position:fixed;
+    overflow-x:hidden;
+    width: 100%;
+    
+}
+.seal{
+    height: 100px;
+    width: 100px;
+    float: right;
+    margin-right: 1in;
+}
+a{
+    color: white;
+    font-family: Papyrus;
+    text-decoration: none; 
+}
+section{
+    background-color: burlywood;
+    font-family: Courier New;
+    
+}
+article{
+    width: 75%;
+    text-align: center;
+    font-size: 25px;
+}
+
+footer{
+    color: white;
+    font-family: Courier New;
+    background-color: rgb(112, 112, 131);
+}
+.cc{
+    color: white;
+    font-family: Courier New; 
+}
+.hiss{
+    color: white; 
+    font-family: Papyrus;
+    text-align: center;  
+    margin-top: 1in;
+}

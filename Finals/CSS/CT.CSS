@@ -1,0 +1,63 @@
+body{
+    background-image: url(../Images/Pattern.jpg);
+}
+header{
+    background: rgba(106, 104, 109, 0.83);
+    top: 0;
+    bottom:0;
+    position:fixed;
+    width: 100%;
+    height: 1.1in;
+    top: 0;
+    bottom:0;
+    position:fixed;
+    overflow-x:hidden;
+    width: 100%;
+    font-family: Papyrus;
+    margin: 0px;
+}
+.seal{
+    height: 100px;
+    width: 100px;
+    float: right;
+    margin-right: 1in;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.di{
+    background: burlywood;
+    font-size: 30px;
+    margin-left: 1in;
+    margin-right: 1in;
+    margin-bottom: 1in;
+    text-align: justify;
+    font-family: Courier New;
+    color: rgb(0, 0, 0);
+    border-style: solid;
+    border-color: black;
+    
+}
+p{
+    font-family: Courier New;
+    font-size: 30px;
+    text-decoration: none;
+    
+}
+.culture{
+    
+    font-family: Papyrus;
+    font-size: 50px;
+    color: white;
+    margin-top: 1.5in;
+}
+article{
+    margin: 10px;
+}
+mark{
+    background-color: black;
+}
+.ccc{
+    color: white;
+}

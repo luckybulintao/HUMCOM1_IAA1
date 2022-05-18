@@ -1,0 +1,55 @@
+body{
+    background-color: burlywood;
+}
+.seal{
+    height: 100px;
+    width: 100px;
+    float: right;
+    margin-right: 1in;
+}
+header{
+    text-decoration: none;
+    font-family: Papyrus;
+    background: rgba(106, 104, 109, 0.83);
+    height: 2in;
+    margin: 0px;
+    height: 1.1in;
+    top: 0;
+    bottom:0;
+    position:fixed;
+    overflow-x:hidden;
+    width: 100%;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-family: Papyrus;
+}
+.brt{
+    height: 600px;
+    width: 1000px;
+}
+h1{
+    color: rgb(0, 0, 0);
+    font-family: Courier New;
+}
+h3{
+    color: rgb(0, 0, 0);
+    font-family: Courier New;
+    font-size: 45px;
+}
+.sss{
+    margin-top: 1in;
+    font-family: Papyrus;
+    text-align: ;
+}
+div{
+    margin-bottom: 1in;
+    
+}
+.line{
+    border-style: solid;
+    background-color: black;
+}
+
