@@ -1,0 +1,1 @@
+console.log("Culture and Tradition Page");
