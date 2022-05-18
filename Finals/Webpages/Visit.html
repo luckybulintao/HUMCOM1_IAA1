@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="author" content="Lucky Bulintao" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Final_Exam Visit Page</title>
+        <link rel="stylesheet" href="../CSS/visit1.css" media="screen" >
+        <script src="../JS/visit.js"></script>
+    </head>
+    <body>
+        <header>
+            <a href="../Index.html">Back to Homepage</a>
+            <img src="../Images/IfugaoSeal.png" class="seal">
+    </header>
+    
+    <h1 style="margin-top: 2in ; font-family: Papyrus; text-align: center; " class="ddd">Trip to Ifugao registration ticket</h1>
+    <div class="form">
+            <form id="myForm"> 
+            <center class="sd">Register Here:</center>
+            <br>
+            <p style="font-family: Arial;">Fill in the required information before submitting</p>
+            <fieldset>
+                <legend>
+                    Personal Information
+                </legend>
+                First name:<input type="text" placeholder="e.g Lucky" id="fname"><br>
+                Last name: <input type="text" placeholder="e.g Bulintao" id="lname"><br>
+                Phone number: <input type="number" min="10" max="12" id="num" placeholder="e.g 09XXXXXXXXX" style="width: 1.5in;"><br>
+                
+            </fieldset>
+            <fieldset>
+                <legend>Trip Details</legend>
+                Date of travel: <input type="text" placeholder="MM-DD-YY" id="dotdate"><br>
+                Destination:
+                    <select id="selector" onchange="getSelectValue">
+                        <option value="" disabled selected hidden>Choose your destination</option>
+                        <option opt1="prov1" value="AGUINALDO">Aguinaldo</option>
+                        <option opt2="prov2" value="ASIPULO">Asipulo</option>
+                        <option opt4="prov3" value="ALFONSO LISTA">Alfonso Lista</option>
+                        <option opt3="prov4" value="BANAUE">Banaue</option>
+                        <option opt5="prov5" value="HUNGDUAN">Hungduan</option>
+                        <option opt6="prov6" value="KIANGAN">Kiangan</option>
+                        <option opt7="prov7" value="LAGAWE">Lagawe</option>
+                        <option opt8="prov8" value="LAMUT">Lamut(Capital)</option>
+                        <option opt9="prov9" value="MAYOYAO">Mayoyao</option>
+                        <option opt10="prov10" value="TINOC">Tinoc</option>
+                        <option opt11="prov11" value="HINGYON">Hingyon</option>
+                 </select> <br/>
+                 Type of ticket:<input type="radio" name="type" value="FIRST CLASS">First class
+                                <input type="radio" name="type" value="ECONOMY">Economy
+            </fieldset>
+            <fieldset>
+                <button type="button" onclick="getInputValue();">Submit</button>
+                <script src="../JS/myFunction.js"></script>
+
+            </fieldset>
+        </form>
+        
+           
+        
+    
+    </body>
+</html>
